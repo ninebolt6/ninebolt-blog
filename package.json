@@ -1,0 +1,27 @@
+{
+  "name": "ninebolt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.7.0",
+    "@nuxtjs/google-adsense": "^1.1.3",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "firebase-tools": "^8.9.0",
+    "nuxt": "^2.14.3",
+    "vue-scrollto": "^2.18.2"
+  },
+  "devDependencies": {
+    "@aceforth/nuxt-optimized-images": "^1.2.0",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/tailwindcss": "3.0.2",
+    "imagemin-pngquant": "^9.0.0",
+    "imagemin-svgo": "^8.0.0"
+  }
+}
